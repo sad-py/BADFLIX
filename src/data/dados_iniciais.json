@@ -3,10 +3,10 @@
     {
       "titulo": "Sad songs to sing along",
       "link": "https://www.youtube.com/watch?v=3bgf3kyJTT4",
-      "cor": "#6BD1FF",
+      "cor": "#767661",
       "link_extra": {
-        "text": "Sad songs to sing along",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Cantando em posição fetal para estimular o diafragma",
+        "url": "./"
       },
       "videos": [
         {
@@ -18,116 +18,101 @@
           "url": "https://www.youtube.com/watch?v=nMdGrMdZYYA"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Motivo para não ficar feliz.",
+          "url": "https://www.youtube.com/watch?v=9_-BAGI2EcA"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Sarrando e chorando.",
+          "url": "https://www.youtube.com/watch?v=6ZCOq1JuOd8"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Mc Marquinhos",
+          "url": "https://www.youtube.com/watch?v=qTG6bnuHrRI"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Chorar para não rir",
+          "url": "https://www.youtube.com/watch?v=Ymwj0zcqnDw"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "... como sempre",
+          "url": "https://www.youtube.com/watch?v=I-RgNNaF8rw"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Desenho e série triste",
+      "cor": "#544444",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Se não sair pensando na vida, é porque foi tempo perdido",
+        "url": "./"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "A espoja é para absorver as lágrimas",
+          "url": "https://www.youtube.com/watch?v=F8TTR0kkwkk"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Melhor desenho que faz querer parar de viver até",
+          "url": "https://www.youtube.com/watch?v=ZH7oHz01X4A"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Melhor chorar em outra realidade",
+          "url": "https://www.youtube.com/watch?v=1pOQ6QDTTKk"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Pokemon triste",
+          "url": "https://www.youtube.com/watch?v=a-lMF3UoMOo"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Filmes triste",
+      "cor": "#544444",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Só pago o ingresso se for pra sofrer",
+        "url": "./"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Monstros LTDA.",
+          "url": "https://www.youtube.com/watch?v=rhNI115-Tdo"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Down",
+          "url": "https://www.youtube.com/watch?v=16N4OjhjZAE"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Fodida Mente",
+          "url": "https://www.youtube.com/watch?v=qoCyQqqjhR8"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "as vantagens de ser triste",
+          "url": "https://youtu.be/6JOVEfxZynY"
         }
       ]
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "grey",
       "link_extra": {
-        "text": "Gamer: para que ser feliz em uma vida, se posso ser em muitas",
+        "text": "Jogos triste",
         "url": "./"
-      }
+      },
+      "videos": [
+        {
+          "titulo": "showro",
+          "url": "https://www.youtube.com/watch?v=9QfPDmzpC2Q&t=4s"
+        }
+      ]
+    },
+    {
+      "titulo": "Webnamorada jogando lol com outro",
+      "cor": "black",
+      "link_extra": {
+        "text": "poxa",
+        "url": "./"
+      },
+      "videos": [
       ]
     }
   ]

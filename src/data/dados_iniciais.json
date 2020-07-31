@@ -3,7 +3,7 @@
     {
       "titulo": "Sad songs to sing along",
       "link": "https://www.youtube.com/watch?v=3bgf3kyJTT4",
-      "cor": "#767661",
+      "cor": "#567B89",
       "link_extra": {
         "text": "Cantando em posição fetal para estimular o diafragma",
         "url": "./"
@@ -41,7 +41,7 @@
     },
     {
       "titulo": "Desenho e série triste",
-      "cor": "#544444",
+      "cor": "#567B89",
       "link_extra": {
         "text": "Se não sair pensando na vida, é porque foi tempo perdido",
         "url": "./"
@@ -67,7 +67,7 @@
     },
     {
       "titulo": "Filmes triste",
-      "cor": "#544444",
+      "cor": "#567B89",
       "link_extra": {
         "text": "Só pago o ingresso se for pra sofrer",
         "url": "./"
@@ -92,10 +92,10 @@
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "grey",
+      "titulo": "Jogos Tristes",
+      "cor": "#567B89",
       "link_extra": {
-        "text": "Jogos triste",
+        "text": "Para que ser triste em uma vida, se posso ser em várias.",
         "url": "./"
       },
       "videos": [
@@ -107,9 +107,9 @@
     },
     {
       "titulo": "Webnamorada jogando lol com outro",
-      "cor": "black",
+      "cor": "#567B89",
       "link_extra": {
-        "text": "mas é que enzinho matador é bem parecido com talarico123",
+        "text": "Mas é que Enzinho_matador é bem parecido com Jack, O talarico123",
         "url": "./"
       },
       "videos": [

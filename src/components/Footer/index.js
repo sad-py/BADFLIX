@@ -8,9 +8,20 @@ function Footer() {
       <a href="./">
         <img className="Logo" src={Logo} alt="Logo Badflix" />
       </a>
-      <p>
-        Dolorosamente criado durante o tédio.
+            <p>
+        Criado durante a
+        {' '}
+        <a href="https://www.alura.com.br/">
+          Imersão React da Alura
+        </a>
+        
+         
       </p>
+        Desenvolvido por 
+        {' '}
+        <a href="https://twitter.com/sabridadd">
+        Sabrina Dourado Dias
+        </a>
     </FooterBase>
   );
 }

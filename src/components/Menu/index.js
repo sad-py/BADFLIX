@@ -13,7 +13,7 @@ function Menu(){
             </Link>
 
             <Button as={Link} className="ButtonLink" to="/cadastro/video">
-                Ajude o seu amigo triste.
+                Contribua com a tristeza do seu amigo.
             </Button>
         </nav>
     )

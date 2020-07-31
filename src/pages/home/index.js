@@ -14,7 +14,7 @@ function Home() {
           <BannerMain
             videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
             url={dadosIniciais.categorias[0].videos[0].url}
-            videoDescription={"Arrasta o pé mesmo que em depressão, meu genin"}
+            videoDescription={"Tururu"}
           />  
 
 

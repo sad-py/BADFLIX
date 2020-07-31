@@ -29,3 +29,12 @@ a {
   display: flex;
   flex-direction: column;
 }
+
+.slick-dots li.slick-active button:before {
+  color: #567B89;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #567B89;
+}

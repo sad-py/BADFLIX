@@ -1,0 +1,12 @@
+.Forca {
+    width: 80px;
+    margin-top: 50px;
+}
+
+.btn:hover{
+    color: #567B89;
+}
+
+.btn{
+    color: white;
+}
